@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=3000&pause=1000&color=33F748&multiline=true&width=435&lines=Farhan+Aslam;Mobile+%2F+Web+Front+end+Developer)](https://git.io/typing-svg)
 <br>
-<a href="https://app.daily.dev/arshah"><img align="right" src="https://api.daily.dev/devcards/10e92dd83543404393391277f9f34b48.png?r=qcc" width="320" alt="AR Shah's Dev Card"/></a>
+<a href="https://app.daily.dev/farhanaslam"><img align="right" src="https://api.daily.dev/devcards/9d035e5c14e349568901e9edc386d22d.png?r=ix2" width="320" alt="Farhan Aslam's Dev Card"/></a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=farhan0000&show_icons=true&theme=dark" width="495">
 <br>
