@@ -1,11 +1,14 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Frontend+Engineer+%7C+Lahore;React+%E2%80%A2+Vue+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Crafting+exceptional+web+experiences)
+# Farhan Aslam
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Senior+Front-End+Engineer+%C2%B7+Lahore%2C+PK;React+%C2%B7+Next.js+%C2%B7+Vue.js+%C2%B7+React+Native+%C2%B7+TypeScript;5%2B+years+shipping+production+SaaS+%26+trading+platforms)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanaslam-three.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-aslam-732978202)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addyfff123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imfarhaan003@gmail.com)
 
+![](https://img.shields.io/badge/Open_to-Remote_%26_International-2EA043?style=flat-square)
 ![](https://komarev.com/ghpvc/?username=farhan0000&color=58A6FF&style=flat-square&label=Profile+views)
 
 </div>
@@ -14,12 +17,14 @@
 
 ### About
 
-Frontend developer specializing in **React**, **Vue**, and **Next.js**. I build
-user-friendly interfaces and work well on a team. Currently freelancing out of Lahore.
+Senior Front-End Engineer with **5+ years** building high-performance, scalable web and
+mobile applications — production SaaS platforms, real-time trading dashboards, and
+cross-platform mobile apps.
 
-- Building modern web apps with a focus on performance and clean UI
-- Open to freelance work and collaboration
-- Reach me through any of the links above
+- Currently leading front-end on a **prop trading platform** at Funded Futures Family — 6 specialised dashboards in Next.js + TypeScript
+- Deep in **React, Next.js, Vue.js, React Native** and TypeScript; comfortable across REST, WebSocket and Firebase
+- Previously **led a team of 4** frontend engineers — code reviews, mentoring, agile sprint planning
+- Based in Lahore, Pakistan · open to **remote, contract, and international** roles
 
 ---
 
@@ -27,21 +32,81 @@ user-friendly interfaces and work well on a team. Currently freelancing out of L
 
 <div align="center">
 
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Mobile & Styling**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**State & Data**
+
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Backend & Tooling**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
+
+---
+
+### Featured work
+
+**[Funded Futures](https://fundedfuturesfamily.com) — Prop Trading Platform**
+`Next.js` `TypeScript` `Material UI` `TanStack Query`
+Six specialised dashboards (Crypto, Futures, Admin, Client, Risk, Live Trading) with
+real-time market feeds, P&L tracking, RBAC, and integrated payment + risk alerting.
+
+**[CAT Auto Tech](https://catautotech.com) — Automotive Web & Mobile Platform**
+`React Native` `Next.js` `Firebase`
+Unified vehicle management across mobile and web — service history, maintenance
+scheduling, appointment booking, and role-based auth for owners, providers and admins.
+
+**[TestFiesta](https://testfiesta.com) — QA & Testing Automation Platform**
+`Vue.js` `Vuetify` `Django` `Firebase`
+Full-stack QA companion for test cases, suites and bug tracking, with real-time
+collaboration and dashboards for coverage, pass/fail rates and bug trends.
+
+**[Kollapp](https://kollapp.com) — Social Networking Mobile App**
+`React Native` `Firestore` `FCM`
+Cross-platform social app with real-time messaging, live status, social login and push
+notifications — tuned for scroll performance via lean component trees and lazy loading.
+
+---
+
+### Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Front-End Engineer | Funded Futures Family · Remote | 2025 – Present |
+| Senior Frontend Developer | SveaSoft · Lahore | 2023 – 2025 |
+| Frontend Web Developer | LinkedMatrix · Lahore | 2021 – 2023 |
+
+BSc Computer Science · Government College University, Lahore · 2017 – 2021
 
 ---
 
@@ -55,12 +120,12 @@ user-friendly interfaces and work well on a team. Currently freelancing out of L
 
 <!--
   Commit/language cards go here once you self-host github-readme-stats.
-  The public instance (github-readme-stats.vercel.app) is returning 503 and
-  will break intermittently, so it is deliberately left out.
+  The public instance (github-readme-stats.vercel.app) returns 503 and breaks
+  intermittently, so it is deliberately left out rather than rendering blank.
 
   To enable: fork anuraghazra/github-readme-stats -> import to Vercel ->
   set env var PAT_1 to a GitHub personal access token -> deploy.
-  Then replace YOUR-PROJECT below and move these two lines above this comment.
+  Then swap YOUR-PROJECT below and move these two lines above this comment.
 
 ![](https://YOUR-PROJECT.vercel.app/api?username=farhan0000&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 ![](https://YOUR-PROJECT.vercel.app/api/top-langs/?username=farhan0000&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF)
@@ -68,16 +133,11 @@ user-friendly interfaces and work well on a team. Currently freelancing out of L
 
 ---
 
-### Selected work
-
-| Project | Stack | What it is |
-|---|---|---|
-| [mywebverse](https://github.com/farhan0000/mywebverse) | JavaScript | _one line about it_ |
-| [angular-e-commerce](https://github.com/farhan0000/angular-e-commerce) | Angular | _one line about it_ |
-| [petscracker](https://github.com/farhan0000/petscracker) | HTML | _one line about it_ |
-| [Auth](https://github.com/farhan0000/Auth) | Python | _one line about it_ |
-
 <div align="center">
 <br>
-<i>Open to freelance projects — <a href="mailto:addyfff123@gmail.com">get in touch</a></i>
+<b>Open to remote, contract and international opportunities</b>
+<br><br>
+<a href="mailto:imfarhaan003@gmail.com">imfarhaan003@gmail.com</a> ·
+<a href="https://linkedin.com/in/farhan-aslam-732978202">LinkedIn</a> ·
+<a href="https://farhanaslam-three.vercel.app/">Portfolio</a>
 </div>
