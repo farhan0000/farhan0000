@@ -23,7 +23,7 @@ cross-platform mobile apps.
 
 - Currently leading front-end on a **prop trading platform** at Funded Futures Family — 6 specialised dashboards in Next.js + TypeScript
 - Deep in **React, Next.js, Vue.js, React Native** and TypeScript; comfortable across REST, WebSocket and Firebase
-- Previously **led a team of 4** frontend engineers — code reviews, mentoring, agile sprint planning
+- Previously **led a team of 4** FullStack engineers — code reviews, mentoring, agile sprint planning
 - Based in Lahore, Pakistan · open to **remote, contract, and international** roles
 
 ---
@@ -32,7 +32,7 @@ cross-platform mobile apps.
 
 <div align="center">
 
-**Frontend**
+**FullStack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -103,8 +103,8 @@ notifications — tuned for scroll performance via lean component trees and lazy
 | Role | Company | Period |
 |---|---|---|
 | Front-End Engineer | Funded Futures Family · Remote | 2025 – Present |
-| Senior Frontend Developer | SveaSoft · Lahore | 2023 – 2025 |
-| Frontend Web Developer | LinkedMatrix · Lahore | 2021 – 2023 |
+| Senior FullStack Developer | SveaSoft · Lahore | 2023 – 2025 |
+| FullStack Web Developer | LinkedMatrix · Lahore | 2021 – 2023 |
 
 BSc Computer Science · Government College University, Lahore · 2017 – 2021
 
