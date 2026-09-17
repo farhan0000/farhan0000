@@ -2,7 +2,7 @@
 
 # Farhan Aslam
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Senior+Front-End+Engineer+%C2%B7+Lahore%2C+PK;React+%C2%B7+Next.js+%C2%B7+Vue.js+%C2%B7+React+Native+%C2%B7+TypeScript;5%2B+years+shipping+production+SaaS+%26+trading+platforms)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Senior+Full-Stack+Engineer+%C2%B7+Lahore%2C+PK;React+%C2%B7+Next.js+%C2%B7+Vue.js+%C2%B7+React+Native+%C2%B7+TypeScript;5%2B+years+shipping+production+SaaS+%26+trading+platforms)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://farhanaslam-three.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-aslam-732978202)
@@ -17,11 +17,11 @@
 
 ### About
 
-Senior Front-End Engineer with **5+ years** building high-performance, scalable web and
+Senior Full-Stack Engineer with **5+ years** building high-performance, scalable web and
 mobile applications — production SaaS platforms, real-time trading dashboards, and
 cross-platform mobile apps.
 
-- Currently leading front-end on a **prop trading platform** at Funded Futures Family — 6 specialised dashboards in Next.js + TypeScript
+- Currently leading Full-Stack on a **prop trading platform** at Funded Futures Family — 6 specialised dashboards in Next.js + TypeScript
 - Deep in **React, Next.js, Vue.js, React Native** and TypeScript; comfortable across REST, WebSocket and Firebase
 - Previously **led a team of 4** FullStack engineers — code reviews, mentoring, agile sprint planning
 - Based in Lahore, Pakistan · open to **remote, contract, and international** roles
@@ -102,7 +102,7 @@ notifications — tuned for scroll performance via lean component trees and lazy
 
 | Role | Company | Period |
 |---|---|---|
-| Front-End Engineer | Funded Futures Family · Remote | 2025 – Present |
+| Full-Stack Engineer | Funded Futures Family · Remote | 2025 – Present |
 | Senior FullStack Developer | SveaSoft · Lahore | 2023 – 2025 |
 | FullStack Web Developer | LinkedMatrix · Lahore | 2021 – 2023 |
 
